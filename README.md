@@ -1,2 +1,2 @@
 # deeplearning.ai
-deeplearning.ai specializatoin course
+deeplearning.ai specialization course with correct solutions
